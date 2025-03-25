@@ -4,7 +4,7 @@
 <p align="center">
   <img align="right" alt="Coding" width="300" src="https://github.com/Harsh-Patel-04/MarketMinds-Analytics/blob/main/animations/animation3.gif">
 </p>
-<br></br>
+
 👨‍💻 Check out my projects and contributions on GitHub!
 
 📝 Passionate about AI & ML, solving real-world problems with innovative solutions.
