@@ -5,13 +5,13 @@
   <img align="right" alt="Coding" width="300" src="https://github.com/Harsh-Patel-04/MarketMinds-Analytics/blob/main/animations/animation3.gif">
 </p>
 
-- 👨‍💻 All of my projects are available here.
+👨‍💻 All of my projects are available here.
 
-- 📝 I have keen interest in Artificial Intelligence and Machine Learning.
+📝 I have keen interest in Artificial Intelligence and Machine Learning.
 
-- 💬 Ask me about **Artificial Intelligence** and **Machine Learning**.
+💬 Ask me about **Artificial Intelligence** and **Machine Learning**.
 
-- 📫 Reach me at **hp41112004@gmail.com**
+📫 Reach me at **hp41112004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
