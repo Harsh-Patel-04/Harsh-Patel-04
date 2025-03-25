@@ -9,7 +9,7 @@
 
 📝 I am passionate about Artificial Intelligence and Machine Learning, exploring innovative solutions in this field.
 
-📌 Exploring the world of AI & ML-let’s collaborate!
+📌 Exploring the world of AI & ML - let’s collaborate!
 
 <h3 align="left">💬 Let’s connect and build something amazing together!</h3>
 <p align="left">
