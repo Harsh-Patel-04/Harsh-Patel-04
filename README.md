@@ -4,7 +4,7 @@
 <p align="center">
   <img align="right" alt="Coding" width="300" src="https://github.com/Harsh-Patel-04/MarketMinds-Analytics/blob/main/animations/animation3.gif">
 </p>
-
+<br></br>
 👨‍💻 Check out my projects and contributions on GitHub!
 
 📝 Passionate about AI & ML, solving real-world problems with innovative solutions.
@@ -19,4 +19,4 @@
   <img align="center" src="https://ssl.gstatic.com/mail/ww/images/big-gmail.png" alt="Harsh Patel" height="30"/></a>
 </p>
 
-<h3> Code. Build. Learn. Repeat!</h3>
+<h4> Code. Build. Learn. Repeat!</h4>
