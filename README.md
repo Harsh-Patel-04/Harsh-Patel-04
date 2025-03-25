@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Patel</h1>
-<h3 align="center">Enthusiastic Developer</h3>
+<h3 align="center">AI & ML Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
   <img align="right" alt="Coding" width="300" src="https://github.com/Harsh-Patel-04/MarketMinds-Analytics/blob/main/animations/animation3.gif">
@@ -7,9 +7,9 @@
 
 👨‍💻 Check out my projects and contributions on GitHub!
 
-📝 I am passionate about Artificial Intelligence and Machine Learning, exploring innovative solutions in this field.
+📝 Passionate about AI & ML, solving real-world problems with innovative solutions.
 
-📌 Exploring the world of AI & ML - let’s collaborate!
+📌 Exploring AI & ML, always open to exciting collaborations!
 
 <h3 align="left">💬 Let’s connect and build something amazing together!</h3>
 <p align="left">
@@ -18,3 +18,5 @@
 <a href="mailto:harsh.patel@gmail.com" target="blank">
   <img align="center" src="https://ssl.gstatic.com/mail/ww/images/big-gmail.png" alt="Harsh Patel" height="30"/></a>
 </p>
+
+<h3> Code. Build. Learn. Repeat!</h3>
