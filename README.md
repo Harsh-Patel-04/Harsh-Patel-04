@@ -5,7 +5,7 @@
   <img align="right" alt="Coding" width="300" src="https://github.com/Harsh-Patel-04/MarketMinds-Analytics/blob/main/animations/animation3.gif">
 </p>
 
-👨‍💻 Check out my projects and contributions on GitHub!.
+👨‍💻 Check out my projects and contributions on GitHub!
 
 📝 I am passionate about Artificial Intelligence and Machine Learning, exploring innovative solutions in this field.
 
