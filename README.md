@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Patel</h1>
-<h3 align="center">Enthusiastic developer</h3>
+<h3 align="center">Enthusiastic Developer</h3>
 
 <p align="center">
   <img align="right" alt="Coding" width="300" src="https://github.com/Harsh-Patel-04/MarketMinds-Analytics/blob/main/animations/animation3.gif">
