@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
-  <img src="https://github.com/Harsh-Patel-04/MarketMinds-Analytics/blob/main/animations/animation2.gif" width="100" height="100>
+  <img align="right" alt="Coding" width="400" src="https://github.com/Harsh-Patel-04/MarketMinds-Analytics/blob/main/animations/animation2.gif">
 </p>
 
 - 👨‍💻 All of my projects are available here.
