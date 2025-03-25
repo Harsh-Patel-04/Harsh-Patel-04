@@ -5,9 +5,9 @@
   <img align="right" alt="Coding" width="300" src="https://github.com/Harsh-Patel-04/MarketMinds-Analytics/blob/main/animations/animation3.gif">
 </p>
 
-👨‍💻 All of my projects are available here.
+👨‍💻 Check out my projects and contributions on GitHub!.
 
-📝 I have keen interest in Artificial Intelligence and Machine Learning.
+📝 I am passionate about Artificial Intelligence and Machine Learning, exploring innovative solutions in this field.
 
 💬 Ask me about **Artificial Intelligence** and **Machine Learning**.
 
@@ -16,6 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/harsh-patel-2a30792a5/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harsh Patel" height="30" width="40" />
+  <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="Harsh Patel" height="30" width="40" />
 </a>
 </p>
