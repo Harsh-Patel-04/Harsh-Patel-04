@@ -19,15 +19,8 @@
   <img align="center" src="https://ssl.gstatic.com/mail/ww/images/big-gmail.png" alt="Harsh Patel" height="30"/></a>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2>📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Patel-04&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Patel-04&layout=compact&theme=radical" alt="Top Languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=Harsh-Patel-04&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Patel-04&bg_color=2b2d40&color=f97316&line=f9a09a&point=f97316&area=true&hide_border=true" alt="GitHub Activity Graph" width="94%">
 </p>
