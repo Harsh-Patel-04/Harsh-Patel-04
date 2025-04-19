@@ -28,5 +28,11 @@
   <br />
   <img src="https://streak-stats.demolab.com?user=Harsh-Patel-04&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Patel-04&bg_color=2b2d40&color=f97316&line=f9a09a&point=f97316&area=true&hide_border=true" alt="GitHub Activity Graph" width="94%">
+</p>
+<div align="center">
+    <img width="47%" height="180px" src="https://github-readme-stats.vercel.app/api?username=Harsh-Patel-04&show_icons=true&theme=calm_pink&rank_icon=github&hide=issues&hide_border=true">
+    <img width="47%" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Patel-04&theme=calm_pink&hide_border=true">
+  </div>
 <h4> Code. Build. Learn. Repeat!</h4>
