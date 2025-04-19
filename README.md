@@ -24,7 +24,7 @@
   <img align="center" src="https://ssl.gstatic.com/mail/ww/images/big-gmail.png" alt="Harsh Patel" height="30"/></a>
 </p>
 
-<h2>GitHub Stats</h2>
+<h3>GitHub Stats</h3>
   <div align="center">
     <img width="47%" height="180px" src="https://github-readme-stats.vercel.app/api?username=Harsh-Patel-04&show_icons=true&theme=calm_pink&rank_icon=github&hide=issues&hide_border=true">
     <img width="47%" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Patel-04&theme=calm_pink&hide_border=true">
