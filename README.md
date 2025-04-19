@@ -19,4 +19,14 @@
   <img align="center" src="https://ssl.gstatic.com/mail/ww/images/big-gmail.png" alt="Harsh Patel" height="30"/></a>
 </p>
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Patel-04&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Patel-04&layout=compact&theme=radical" alt="Top Languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Harsh-Patel-04&theme=radical&hide_border=false" alt="GitHub Streak" />
+</div>
+
 <h4> Code. Build. Learn. Repeat!</h4>
